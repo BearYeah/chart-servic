@@ -1,0 +1,172 @@
+{
+  "repository": "https://github.com/BearYeah/Horosa-Web-App-comprehensively-improved-Windows",
+  "commit": "f21b451b752ec5926ffe869216045963c12f4322",
+  "license": "AGPL-3.0-only",
+  "files": [
+    {
+      "path": "vendor/horosa/utils/baziLunarLocal.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/baziLunarLocal.js",
+      "git_blob_sha1": "1b400905bc4d276cfca5eb72ae6a240e8330917f"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/ZiweiCalc.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/ZiweiCalc.js",
+      "git_blob_sha1": "46b11c75d5215d5ff9dac6b88e01d1d824670027"
+    },
+    {
+      "path": "vendor/horosa/constants/ZWConst.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/constants/ZWConst.js",
+      "git_blob_sha1": "8faf75e431c839218f75eda56495603a7441b4b6"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/ziweiCore.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/ziweiCore.js",
+      "git_blob_sha1": "c106ca31ec915989b6689ed29533a7fdd181d2b3"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/ziweiTables.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/ziweiTables.js",
+      "git_blob_sha1": "c78977cebc98537d8724522674e2879337c81667"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/ziweiOptions.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/ziweiOptions.js",
+      "git_blob_sha1": "9c46ab369fee2aef80b1488dec9ee64313a70dc6"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/ziweiSchools.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/ziweiSchools.js",
+      "git_blob_sha1": "55a3b4f72e49b8d4d25c3e0cde08a32ffb4d26e8"
+    },
+    {
+      "path": "vendor/horosa/utils/baziMangPai.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/baziMangPai.js",
+      "git_blob_sha1": "e5939bc27813072ec155ad31276ed9b52c509386"
+    },
+    {
+      "path": "vendor/horosa/utils/lunarDomainGuard.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/lunarDomainGuard.js",
+      "git_blob_sha1": "3afc406a25cc7eb3fff2eb291e285aac1597d549"
+    },
+    {
+      "path": "vendor/horosa/utils/beijingTimeShift.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/beijingTimeShift.js",
+      "git_blob_sha1": "dcedaa85c48a5ace19d14283fd8e467ba3bee4fb"
+    },
+    {
+      "path": "vendor/horosa/utils/baziFenYe.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/baziFenYe.js",
+      "git_blob_sha1": "49fea832e58ae70edc1aab834f4010b9ecf7200a"
+    },
+    {
+      "path": "vendor/horosa/utils/baziGejuYongShen.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/baziGejuYongShen.js",
+      "git_blob_sha1": "a07e127c049f7ba7e790d4029a05e3f0449b2eda"
+    },
+    {
+      "path": "vendor/horosa/utils/dateStrSafe.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/dateStrSafe.js",
+      "git_blob_sha1": "00964dd6e38989fc2d75ecbdfe526a4c26d56444"
+    },
+    {
+      "path": "vendor/horosa/utils/baziWuxing.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/baziWuxing.js",
+      "git_blob_sha1": "a732d6bbcea68c91bd4f6fbaa9ac2e6a4ae1acf8"
+    },
+    {
+      "path": "vendor/horosa/utils/baziShenShaLocal.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/baziShenShaLocal.js",
+      "git_blob_sha1": "a3dbe1d7ffecb55adcc12c93644c41364bcbd066"
+    },
+    {
+      "path": "vendor/horosa/utils/baziZaGe.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/baziZaGe.js",
+      "git_blob_sha1": "0966b975a376d5314aa2e087b79f201cc4b779ea"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweijiang.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweijiang.json",
+      "git_blob_sha1": "327b995c0c7816068d581051b2be5896f40c3149"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweidou.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweidou.json",
+      "git_blob_sha1": "a3a408d27cce039b3462bc9979c3e2f9bb7abb38"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweihuolin.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweihuolin.json",
+      "git_blob_sha1": "e1be6c1c74573243de37944e9316b244c9f2d52c"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweistarsmain.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweistarsmain.json",
+      "git_blob_sha1": "0ce8271abcd9b02a8dda3061c6f390f138e03ce3"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweimonth.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweimonth.json",
+      "git_blob_sha1": "87b5a19b57a96bcb67b911df1badf7fb74283cf6"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweizu.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweizu.json",
+      "git_blob_sha1": "3143e007a70bdeea4a29c6fe99a9d0b2b1601641"
+    },
+    {
+      "path": "vendor/horosa/utils/baziTiaoHou.js",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/utils/baziTiaoHou.js",
+      "git_blob_sha1": "a9fb9ab929a4f434f211eb10bdeb7c61c699fc71"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweistarlight_quanshu_full.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweistarlight_quanshu_full.json",
+      "git_blob_sha1": "01718c5ebbd3e09b7d151fc6c07e0f3a9425dbe7"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweige.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweige.json",
+      "git_blob_sha1": "a9e4fd3752e79eb4b7658e76de85a0685c4aa197"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweistarlight.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweistarlight.json",
+      "git_blob_sha1": "5391e4da934c597c8f4bd601dd520559e98fa957"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweiyeargan.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweiyeargan.json",
+      "git_blob_sha1": "2d6184f9223d0531b9c5355aa190c9dc46358261"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweiyearzi.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweiyearzi.json",
+      "git_blob_sha1": "a3f962c04565be14fa7fea52361c8ee5e0689b2b"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweiliuchangqu.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweiliuchangqu.json",
+      "git_blob_sha1": "ca39587820c5e937eb587c358e67cbd40aabc631"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweistarlight_quanshu.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweistarlight_quanshu.json",
+      "git_blob_sha1": "c004bbe246130539c63eb972afebfa6c18c846d4"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweismallstars.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweismallstars.json",
+      "git_blob_sha1": "5c18c43ed8c788724eb963f94dedee0d9bf802d9"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweixiaoxian.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweixiaoxian.json",
+      "git_blob_sha1": "3646dd8aa2cdb50ae4db7823cc5772d84165487b"
+    },
+    {
+      "path": "vendor/horosa/components/ziwei/data/tables/ziweitimezi.json",
+      "upstream_path": "local/workspace/Horosa-Web-55c75c5b088252fbd718afeffa6d5bcb59254a0c/astrostudyui/src/components/ziwei/data/tables/ziweitimezi.json",
+      "git_blob_sha1": "b83d4fd44e498b2f87a6d5ea38f60ab776ce3ef4"
+    }
+  ]
+}

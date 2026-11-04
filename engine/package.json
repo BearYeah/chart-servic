@@ -1,0 +1,15 @@
+{
+  "name": "consensus-chart-engine",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build:charts": "node build_charts.cjs",
+    "test:charts": "node test_charts.cjs"
+  },
+  "dependencies": {
+    "lunar-javascript": "1.7.7"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  }
+}

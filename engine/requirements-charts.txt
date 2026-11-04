@@ -1,0 +1,2 @@
+# Optional only for the new local Vedic calculator. Existing text analysis needs no new packages.
+pyswisseph==2.10.3.2
